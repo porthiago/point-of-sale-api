@@ -1,6 +1,6 @@
 # API Simulando um Ponto de Venda (PDV)
 
-- API Rest criada para solucionar o trabalho de conclusão do curso de desenvolvimento de software backend da Cubos Academy, usando tecnologias como nodejs, banco de dados relacionais(postgreSQL), knex, bcrypt, express, jsonwebtoken, nodemailer e yup.
+- API Rest criada para solucionar o trabalho de conclusão do curso de desenvolvimento de software backend da Cubos Academy, usando tecnologias como **nodejs, banco de dados relacionais(postgreSQL), knex, bcrypt, express, jsonwebtoken, nodemailer e yup.**
 
 # Desafio Módulo 5 - Backend
 
