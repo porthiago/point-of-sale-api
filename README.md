@@ -1,7 +1,10 @@
 # desafio-backend-05-pdv
-![](https://i.imgur.com/xG74tOh.png)
 
 # Desafio Módulo 5 - Backend
+
+OBS: Desafio feito em grupo
+
+Autores: [Thiago Porto](https://github.com/porthiago), [Leonardo Freitas](https://github.com/LFreitasA), [Leandro Rebouças](https://github.com/LeandroRSdev) e [Vinicius Souza](https://github.com/SouzaVinicius075)
 
 Seja bem vindo(a) ao desafio do módulo 5.
 
@@ -580,3 +583,6 @@ Critérios de aceite:
 -   [Upload de arquivos](https://aulas.cubos.academy/turma/8e525417-a33a-46f6-9476-9fcdfe375f99/aulas/7a75ac10-2387-49bd-9baa-25e1676704fa)
 
 ###### tags: `back-end` `módulo 5` `nodeJS` `PostgreSQL` `API REST` `desafio`
+
+____
+![](https://i.imgur.com/xG74tOh.png)
